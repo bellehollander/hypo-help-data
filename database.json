@@ -1,0 +1,214 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Belle Hollander",
+      "isStaff": true,
+      "email": "bellehollander@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Emma Hollander",
+      "isStaff": true,
+      "email": "emmahollander@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Stevie Hollander",
+      "isStaff": true,
+      "email": "steviehollander@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "George Cruz",
+      "isStaff": true,
+      "email": "georgecruz@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Kirsten Angiletta",
+      "isStaff": false,
+      "email": "kirstenangiletta@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Ellise Smith",
+      "isStaff": false,
+      "email": "ellisesmith@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Cindy Hollander",
+      "isStaff": false,
+      "email": "cindyhollander@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Gracie Hollander",
+      "isStaff": false,
+      "email": "graciehollander@gmail.com"
+    }
+  ],
+  "symptoms": [
+    { "id": 1, "name": "Cough" },
+    { "id": 2, "name": "Headache" },
+    { "id": 3, "name": "Shortness of breath" },
+    { "id": 4, "name": "Neausea" },
+    { "id": 5, "name": "Dry Mouth" },
+    { "id": 6, "name": "Confusion" },
+    { "id": 7, "name": "Ringing in ears" },
+    { "id": 8, "name": "Rapid Heartbeat" },
+    { "id": 9, "name": "Ear ache" },
+    { "id": 10, "name": "Hard to swallow" }
+  ],
+  "tips": [
+    {
+      "id": 1,
+      "description": "Stay Hydrated: Drink plenty of fluids, such as water or herbal tea, to keep your throat moist and help reduce coughing. Warm liquids can be especially soothing.",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "description": "Rest in a Quiet and Dark Environment: Find a quiet and dimly lit room where you can rest and relax. Lie down in a comfortable position and try to minimize external stimuli that may worsen your headache, such as noise and bright lights.",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "description": "Practice Deep Breathing: Take slow, deep breaths in through your nose and exhale slowly through your mouth. Focus on fully expanding your lungs as you inhale and gradually releasing the breath as you exhale. This can help slow down your breathing, increase oxygen intake, and promote relaxation. Anxiety can exemplify these feelings. ",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "description": "Take Slow, Deep Breaths: Deep breathing can help calm your body and reduce feelings of nausea. Sit or lie down in a comfortable position and take slow, deep breaths in through your nose and out through your mouth. Focus on the rhythm of your breath and try to relax your body.",
+      "userId": 3
+    },
+    {
+      "id": 5,
+      "description": "Trying ginger in various forms, such as ginger tea, ginger candies, or ginger ale, as it is known to help alleviate nausea for some people.",
+      "userId": 4
+    },
+    {
+      "id": 6,
+      "description": "Stay Hydrated: Drink plenty of water throughout the day to keep your mouth hydrated. Sip water regularly and carry a water bottle with you to ensure you can hydrate whenever needed. Avoid excessive consumption of sugary or caffeinated beverages as they can contribute to dehydration.",
+      "userId": 2
+    },
+    {
+      "id": 7,
+      "description": "Breathing through your nose rather than your mouth to reduce evaporation of saliva.",
+      "userId": 1
+    },
+    {
+      "id": 8,
+      "description": "Avoid Overstimulation: Limit exposure to bright lights, loud noises, or busy environments that can contribute to confusion. Opt for a calm and soothing environment instead.",
+      "userId": 4
+    },
+    {
+      "id": 9,
+      "description": "Practice Relaxation Techniques: Stress and anxiety can amplify the perception of tinnitus. Engaging in relaxation techniques, such as deep breathing exercises, meditation, or yoga, can help manage stress and potentially reduce the intensity of tinnitus.",
+      "userId": 3
+    },
+    {
+      "id": 10,
+      "description": "Practice Stress Management: Engage in activities that help reduce stress and promote relaxation. This can include regular exercise, meditation, yoga, spending time in nature, or pursuing hobbies that bring you joy and calmness. Finding healthy outlets for stress can help alleviate anxiety and the associated rapid heartbeat.",
+      "userId": 2
+    },
+    {
+      "id": 11,
+      "description": "Apply Warm Compress: Place a warm compress or heating pad against the affected ear for about 10 to 15 minutes. The warmth can help soothe the pain and promote relaxation. Ensure that the compress is warm, not hot, to avoid burning yourself. You can use a warm washcloth or a microwavable heat pack wrapped in a thin towel.",
+      "userId": 1
+    },
+    {
+      "id": 12,
+      "description": "Relaxation Techniques: Practice relaxation techniques to help calm your mind and body, which can in turn ease the feeling of difficulty swallowing. Deep breathing exercises, progressive muscle relaxation, or guided meditation can help promote relaxation and reduce anxiety-related tension in the throat area.",
+      "userId": 4
+    }
+  ],
+  "CustomerForms": [
+    {
+      "id": 1,
+      "userId": 5,
+      "symptomId": 3,
+      "description": "i constantly feel like i can't get a deep enough breathe. ive gone to the doctor and everythings fine, but i just hate dealing with this."
+    },
+    {
+      "id": 2,
+      "userId": 6,
+      "symptomId": 2,
+      "description": "Everytime i get a headache I just freakout and think its something way worse. I know its because i just dont drink enough water, but it really sucks."
+    },
+    {
+      "id": 3,
+      "userId": 8,
+      "symptomId": 10,
+      "description": "Whenever i have something big coming up or im in a new place i feel like its hard to swallow. My anxiety convinces me im always having an allergic reaction and its so hard to pull myself out of that"
+    },
+    {
+      "id": 4,
+      "userId": 7,
+      "symptomId": 7,
+      "description": "When i get anxious i just keep hearing ringing in my ears. Im trying to learn how to deal with my anxiety and learn to cope."
+    }
+  ],
+  "symptomTip": [
+    {
+      "id": 1,
+      "tipId": 1,
+      "symptomId": 1
+    },
+    {
+      "id": 2,
+      "tipId": 1,
+      "symptomId": 5
+    },
+    {
+      "id": 3,
+      "tipId": 2,
+      "symptomId": 2
+    },
+    {
+      "id": 4,
+      "tipId": 3,
+      "symptomId": 3
+    },
+    {
+      "id": 5,
+      "tipId": 4,
+      "symptomId": 4
+    },
+    {
+      "id": 6,
+      "tipId": 5,
+      "symptomId": 4
+    },
+    {
+      "id": 7,
+      "tipId": 6,
+      "symptomId": 5
+    },
+    {
+      "id": 8,
+      "tipId": 7,
+      "symptomId": 5
+    },
+    {
+      "id": 9,
+      "tipId": 9,
+      "symptomId": 7
+    },
+    {
+      "id": 10,
+      "tipId": 10,
+      "symptomId": 8
+    },
+    {
+      "id": 11,
+      "tipId": 11,
+      "symptomId": 9
+    },
+    {
+      "id": 12,
+      "tipId": 12,
+      "symptomId": 10
+    }
+  ]
+}
