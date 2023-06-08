@@ -50,16 +50,46 @@
     }
   ],
   "symptoms": [
-    { "id": 1, "name": "Cough" },
-    { "id": 2, "name": "Headache" },
-    { "id": 3, "name": "Shortness of breath" },
-    { "id": 4, "name": "Neausea" },
-    { "id": 5, "name": "Dry Mouth" },
-    { "id": 6, "name": "Confusion" },
-    { "id": 7, "name": "Ringing in ears" },
-    { "id": 8, "name": "Rapid Heartbeat" },
-    { "id": 9, "name": "Ear ache" },
-    { "id": 10, "name": "Hard to swallow" }
+    {
+      "id": 1,
+      "name": "Cough"
+    },
+    {
+      "id": 2,
+      "name": "Headache"
+    },
+    {
+      "id": 3,
+      "name": "Shortness of breath"
+    },
+    {
+      "id": 4,
+      "name": "Neausea"
+    },
+    {
+      "id": 5,
+      "name": "Dry Mouth"
+    },
+    {
+      "id": 6,
+      "name": "Confusion"
+    },
+    {
+      "id": 7,
+      "name": "Ringing in ears"
+    },
+    {
+      "id": 8,
+      "name": "Rapid Heartbeat"
+    },
+    {
+      "id": 9,
+      "name": "Ear ache"
+    },
+    {
+      "id": 10,
+      "name": "Hard to swallow"
+    }
   ],
   "tips": [
     {
@@ -147,6 +177,18 @@
       "userId": 7,
       "symptomId": 7,
       "description": "When i get anxious i just keep hearing ringing in my ears. Im trying to learn how to deal with my anxiety and learn to cope."
+    },
+    {
+      "userId": 5,
+      "symptomId": "3",
+      "description": "i keep getting shortness of breathe and i know that its just anxiety but it doesnt feel like it",
+      "id": 5
+    },
+    {
+      "userId": 5,
+      "symptomId": "6",
+      "description": "why does jonathan like sex and the city soo much? its giving me anxiety",
+      "id": 10
     }
   ],
   "symptomTip": [
