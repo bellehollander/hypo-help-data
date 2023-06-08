@@ -239,16 +239,21 @@
     },
     {
       "id": 10,
+      "tipId": 8,
+      "symptomId": 7
+    },
+    {
+      "id": 11,
       "tipId": 10,
       "symptomId": 8
     },
     {
-      "id": 11,
+      "id": 12,
       "tipId": 11,
       "symptomId": 9
     },
     {
-      "id": 12,
+      "id": 13,
       "tipId": 12,
       "symptomId": 10
     }
