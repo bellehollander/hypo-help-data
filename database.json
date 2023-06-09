@@ -123,11 +123,6 @@
       "userId": 2
     },
     {
-      "id": 7,
-      "description": "Breathing through your nose rather than your mouth to reduce evaporation of saliva.",
-      "userId": 1
-    },
-    {
       "id": 8,
       "description": "Avoid Overstimulation: Limit exposure to bright lights, loud noises, or busy environments that can contribute to confusion. Opt for a calm and soothing environment instead.",
       "userId": 4
@@ -183,12 +178,6 @@
       "symptomId": "3",
       "description": "i keep getting shortness of breathe and i know that its just anxiety but it doesnt feel like it",
       "id": 5
-    },
-    {
-      "userId": 5,
-      "symptomId": "6",
-      "description": "why does jonathan like sex and the city soo much? its giving me anxiety",
-      "id": 10
     }
   ],
   "symptomTip": [
@@ -225,11 +214,6 @@
     {
       "id": 7,
       "tipId": 6,
-      "symptomId": 5
-    },
-    {
-      "id": 8,
-      "tipId": 7,
       "symptomId": 5
     },
     {
