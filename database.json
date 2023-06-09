@@ -146,6 +146,11 @@
       "id": 12,
       "description": "Relaxation Techniques: Practice relaxation techniques to help calm your mind and body, which can in turn ease the feeling of difficulty swallowing. Deep breathing exercises, progressive muscle relaxation, or guided meditation can help promote relaxation and reduce anxiety-related tension in the throat area.",
       "userId": 4
+    },
+    {
+      "description": "wash your hands",
+      "userId": 1,
+      "id": 13
     }
   ],
   "CustomerForms": [
